@@ -1,0 +1,5 @@
+事件時間,處理單位,類別,系統,Priority,事件狀態,記錄人/課別,處理人員,Class,原因,TagName,主旨說明,狀況原因,最新處理,AlarmNumber,預計結案日期,最新待辦事項,影響範圍,Phase
+2020/4/9 18:45:11,-,-,P1UPW,Alarm300,-,-,-,-,-,P1UPW_SDIIAFW1111_H,P1UPW_SDIIAFW1111_H/MM1011 Outlet SDIIAFW1111 H FAB LB2,N/A,說明1csv,-,-,-,-,-
+2020/4/9 18:45:11,-,-,P1UPW,Alarm300,-,-,-,-,-,P1UPW_SDIIAFW1111_H,P1UPW_SDIIAFW1111_H/MM1011 Outlet SDIIAFW1111 H FAB LB2,N/A,說明2,-,-,-,-,-
+2020/4/9 18:45:11,-,-,P1UPW,Alarm300,-,-,-,-,-,P1UPW_SDIIAFW1111_H,P1UPW_SDIIAFW1111_H/MM1011 Outlet SDIIAFW1111 H FAB LB2,N/A,說明3,-,-,-,-,-
+2020/4/9 18:45:11,-,-,P1UPW,Alarm300,-,-,-,-,-,P1UPW_P2121D_DEV_H,P1UPW_P2121D_DEV_H/P2131C NO.2 BOOSTER PUMP C HZ MV DEVIATION H FAB LB1,N/A,說明3,-,-,-,-,-
